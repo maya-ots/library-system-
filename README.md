@@ -78,7 +78,7 @@ my_project/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/maya-ots/library-system
+git clone https://github.com/maya-ots/library-system-
 cd my_project
 ```
 
